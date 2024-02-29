@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <h4 class="heading">
-                     About Us
+                     About me
                     </h4>    
                     <div class="underline mb-2"></div>
                     <p>       
