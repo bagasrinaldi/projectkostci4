@@ -1,0 +1,70 @@
+CRITICAL - 2024-02-25 13:04:58 --> Invalid file: "layout/user/page_layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/user/page_layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/user/page_layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->about()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-25 13:05:01 --> Invalid file: "layout/user/page_layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/user/page_layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/user/page_layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->about()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-25 13:06:38 --> Invalid file: "layout/user/page_layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/user/page_layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/user/page_layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->about()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-25 13:08:33 --> Invalid file: "layout/user/page_layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/user/page_layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/user/page_layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->about()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-25 15:38:23 --> Invalid file: "layout/user/page_layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/user/page_layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/user/page_layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->about()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-25 15:38:34 --> Invalid file: "layout/user/page_layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/user/page_layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/user/page_layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->about()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-25 15:39:35 --> Invalid file: "layout/user/page_layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/user/page_layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/user/page_layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about', [], true)
+ 4 APPPATH\Controllers\Home.php(13): view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->about()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
